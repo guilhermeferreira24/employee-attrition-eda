@@ -2,6 +2,10 @@
 
 ![Banner](banner.png)
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
+
 ## Overview
 
 This project performs an end-to-end exploratory data analysis of employee attrition using the IBM HR Analytics dataset. Rather than treating it as a machine learning classification problem, the goal is to answer four business questions through structured analytical reasoning: who leaves, what pushes them out, which employee profiles are most at risk, and what the financial cost of inaction looks like.
